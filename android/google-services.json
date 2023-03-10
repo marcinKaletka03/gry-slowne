@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "869808932054",
+    "project_id": "gry-slowne",
+    "storage_bucket": "gry-slowne.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869808932054:android:edc1078836b2f796d07577",
+        "android_client_info": {
+          "package_name": "com.slowna.game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869808932054-n50lp0fujp4geqhriovuqdb9tq5idou5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYHPtme_Z1-Plu11r_Ljp_ycJbFsdma48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "869808932054-n50lp0fujp4geqhriovuqdb9tq5idou5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

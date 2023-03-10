@@ -1,0 +1,184 @@
+  {
+  "chars": [
+    {
+      "letter": "a",
+      "quantity": 9,
+      "points": 1
+    },
+    {
+      "letter": "e",
+      "quantity": 7,
+      "points": 1
+    },
+    {
+      "letter": "i",
+      "quantity": 8,
+      "points": 1
+    },
+    {
+      "letter": "n",
+      "quantity": 5,
+      "points": 1
+    },
+    {
+      "letter": "o",
+      "quantity": 6,
+      "points": 1
+    },
+    {
+      "letter": "r",
+      "quantity": 4,
+      "points": 1
+    },
+    {
+      "letter": "s",
+      "quantity": 4,
+      "points": 1
+    },
+    {
+      "letter": "w",
+      "quantity": 4,
+      "points": 1
+    },
+    {
+      "letter": "z",
+      "quantity": 5,
+      "points": 1
+    },
+    {
+      "letter": "c",
+      "quantity": 3,
+      "points": 2
+    },
+    {
+      "letter": "d",
+      "quantity": 3,
+      "points": 2
+    },
+    {
+      "letter": "k",
+      "quantity": 3,
+      "points": 2
+    },
+    {
+      "letter": "l",
+      "quantity": 3,
+      "points": 2
+    },
+    {
+      "letter": "m",
+      "quantity": 3,
+      "points": 2
+    },
+    {
+      "letter": "p",
+      "quantity": 3,
+      "points": 2
+    },
+    {
+      "letter": "t",
+      "quantity": 3,
+      "points": 2
+    },
+    {
+      "letter": "y",
+      "quantity": 4,
+      "points": 2
+    },
+    {
+      "letter": "b",
+      "quantity": 2,
+      "points": 3
+    },
+    {
+      "letter": "g",
+      "quantity": 2,
+      "points": 3
+    },
+    {
+      "letter": "h",
+      "quantity": 2,
+      "points": 3
+    },
+    {
+      "letter": "j",
+      "quantity": 2,
+      "points": 3
+    },
+    {
+      "letter": "ł",
+      "quantity": 2,
+      "points": 3
+    },
+    {
+      "letter": "u",
+      "quantity": 2,
+      "points": 3
+    },
+    {
+      "letter": "ą",
+      "quantity": 1,
+      "points": 5
+    },
+    {
+      "letter": "ę",
+      "quantity": 1,
+      "points": 5
+    },
+    {
+      "letter": "f",
+      "quantity": 1,
+      "points": 5
+    },
+    {
+      "letter": "ó",
+      "quantity": 1,
+      "points": 5
+    },
+    {
+      "letter": "ś",
+      "quantity": 1,
+      "points": 5
+    },
+    {
+      "letter": "ż",
+      "quantity": 1,
+      "points": 5
+    },
+    {
+      "letter": "ć",
+      "quantity": 1,
+      "points": 6
+    },
+    {
+      "letter": "ń",
+      "quantity": 1,
+      "points": 7
+    },
+    {
+      "letter": "ź",
+      "quantity": 1,
+      "points": 9
+    },
+    {
+      "letter": " ",
+      "quantity": 2,
+      "points": 0
+    },
+    {
+      "letter": "v",
+      "quantity": 0,
+      "points": 0
+    },
+    {
+      "letter": "q",
+      "quantity": 0,
+      "points": 0
+    },
+    {
+      "letter": "x",
+      "quantity": 0,
+      "points": 0
+    }
+  ]
+}

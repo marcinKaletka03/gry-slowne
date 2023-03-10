@@ -1,0 +1,139 @@
+{
+  "chars": [
+    {
+      "letter": "a",
+      "quantity": 9,
+      "points": 1
+    },
+    {
+      "letter": "b",
+      "quantity": 2,
+      "points": 3
+    },
+    {
+      "letter": "c",
+      "quantity": 2,
+      "points": 3
+    },
+    {
+      "letter": "d",
+      "quantity": 4,
+      "points": 2
+    },
+    {
+      "letter": "e",
+      "quantity": 12,
+      "points": 1
+    },
+    {
+      "letter": "f",
+      "quantity": 2,
+      "points": 4
+    },
+    {
+      "letter": "g",
+      "quantity": 3,
+      "points": 2
+    },
+    {
+      "letter": "h",
+      "quantity": 2,
+      "points": 4
+    },
+    {
+      "letter": "i",
+      "quantity": 9,
+      "points": 1
+    },
+    {
+      "letter": "j",
+      "quantity": 1,
+      "points": 8
+    },
+    {
+      "letter": "k",
+      "quantity": 1,
+      "points": 5
+    },
+    {
+      "letter": "l",
+      "quantity": 4,
+      "points": 1
+    },
+    {
+      "letter": "m",
+      "quantity": 2,
+      "points": 3
+    },
+    {
+      "letter": "n",
+      "quantity": 6,
+      "points": 1
+    },
+    {
+      "letter": "o",
+      "quantity": 8,
+      "points": 1
+    },
+    {
+      "letter": "p",
+      "quantity": 2,
+      "points": 3
+    },
+    {
+      "letter": "q",
+      "quantity": 1,
+      "points": 10
+    },
+    {
+      "letter": "r",
+      "quantity": 6,
+      "points": 1
+    },
+    {
+      "letter": "s",
+      "quantity": 4,
+      "points": 1
+    },
+    {
+      "letter": "t",
+      "quantity": 6,
+      "points": 1
+    },
+    {
+      "letter": "u",
+      "quantity": 4,
+      "points": 1
+    },
+    {
+      "letter": "v",
+      "quantity": 2,
+      "points": 4
+    },
+    {
+      "letter": "w",
+      "quantity": 2,
+      "points": 4
+    },
+    {
+      "letter": "x",
+      "quantity": 1,
+      "points": 8
+    },
+    {
+      "letter": "y",
+      "quantity": 2,
+      "points": 4
+    },
+    {
+      "letter": "z",
+      "quantity": 1,
+      "points": 10
+    },
+    {
+      "letter": " ",
+      "quantity": 2,
+      "points": 0
+    }
+  ]
+}
